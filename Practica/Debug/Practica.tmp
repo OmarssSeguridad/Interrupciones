@@ -1,0 +1,92 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+  <FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE>
+  <FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\Debug\Practica.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practica.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practica.map</FILE>
+  <FILE>Practica.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>39</LINE></START>
+  <EXT_INT0><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>132</LINE></EXT_INT0>
+  <EXT_INT1><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>136</LINE></EXT_INT1>
+  <EXT_INT2><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>140</LINE></EXT_INT2>
+  <EXT_INT3><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>144</LINE></EXT_INT3>
+  <MSG><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>23</LINE></MSG>
+  <VARS><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>25</LINE></VARS>
+  <VARS2><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>26</LINE></VARS2>
+  <VARS3><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>27</LINE></VARS3>
+  <LCD_INIT><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>35</LINE></LCD_INIT>
+  <CMNDWRT><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>111</LINE></CMNDWRT>
+  <DELAY_2ms><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>383</LINE></DELAY_2ms>
+  <_linea2><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>61</LINE></_linea2>
+  <CambiaCusorD><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>71</LINE></CambiaCusorD>
+  <tiempo1><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>203</LINE></tiempo1>
+  <puntero><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>178</LINE></puntero>
+  <CambiaCusorI><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>86</LINE></CambiaCusorI>
+  <limpiar><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>102</LINE></limpiar>
+  <SDELAY><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>401</LINE></SDELAY>
+  <DATAWRT><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>143</LINE></DATAWRT>
+  <_regreso><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>225</LINE></_regreso>
+  <_ubicarPuntero><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>238</LINE></_ubicarPuntero>
+  <_terminoR><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>234</LINE></_terminoR>
+  <_punteroL1><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>280</LINE></_punteroL1>
+  <_punteroL2><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>250</LINE></_punteroL2>
+  <_puntL2><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>262</LINE></_puntL2>
+  <_salirP2><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>276</LINE></_salirP2>
+  <_puntL1><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>289</LINE></_puntL1>
+  <_salirP1><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>303</LINE></_salirP1>
+  <_Desplaza><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>310</LINE></_Desplaza>
+  <_DesplazateDer><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>324</LINE></_DesplazateDer>
+  <_DesplazateIz><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>361</LINE></_DesplazateIz>
+  <_Izq><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>351</LINE></_Izq>
+  <_MovD><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>355</LINE></_MovD>
+  <_MovI><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>374</LINE></_MovI>
+  <loop1><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>387</LINE></loop1>
+  <loop0><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\_LCD.inc</FILE><LINE>389</LINE></loop0>
+  <aleatoria><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>5</LINE></aleatoria>
+  <A><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>35</LINE></A>
+  <EEPROM_write><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>63</LINE></EEPROM_write>
+  <dii><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>54</LINE></dii>
+  <unidades><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>26</LINE></unidades>
+  <EEPROM_read><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>74</LINE></EEPROM_read>
+  <modulo><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>39</LINE></modulo>
+  <mod><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>46</LINE></mod>
+  <modul><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>42</LINE></modul>
+  <doo><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\EEPROM.inc</FILE><LINE>51</LINE></doo>
+  <loop><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>88</LINE></loop>
+  <recorrerT><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>115</LINE></recorrerT>
+  <barrido><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>148</LINE></barrido>
+  <compara><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>176</LINE></compara>
+  <buscafila><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>202</LINE></buscafila>
+  <escribe><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>225</LINE></escribe>
+  <imprime><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>272</LINE></imprime>
+  <derechaCursor><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>244</LINE></derechaCursor>
+  <salirCursorD><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>255</LINE></salirCursorD>
+  <izquierdaCursor><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>258</LINE></izquierdaCursor>
+  <salirCursorI><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>269</LINE></salirCursorI>
+  <Continuar><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>323</LINE></Continuar>
+  <BorraLCD><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>284</LINE></BorraLCD>
+  <VarAl><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>301</LINE></VarAl>
+  <salirVA><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>319</LINE></salirVA>
+  <ciclovar><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>328</LINE></ciclovar>
+  <tiempo><FILE>C:\Users\Omarb\Documents\Lenguajes De Interfaz\ProgramaVarAlModificado\Practica\main.asm</FILE><LINE>333</LINE></tiempo>
+ </LABELS>
+</ASSEMBLER_INFO>
